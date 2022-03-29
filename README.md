@@ -10,7 +10,7 @@
 # Requirements 
 - put the hcaptcha.py file inside the project folder, check my hcaptcha bypass repo for the file
 - httpx https://pypi.org/project/httpx/
-- Rotating Proxies
+- ROTATING PROXIES ONLY!!!!
 
 # INSTALL
 - click install.bat and wating press any key to continue...
@@ -19,6 +19,6 @@
 
 # USAGE
 - type python main.py or node index.js
-- watig and Enjoin!!
+- wait and Enjoy!!
 
-# Ty for Using my Tool!
+# Thanks for using my Tool!
