@@ -1,4 +1,4 @@
-# DISCORD-TOKEN-GENJS
+# DISCORD-TOKEN-GEN
 
 ![s](https://cdn.discordapp.com/attachments/887757784337252413/954385886341111899/gen.png)
 
